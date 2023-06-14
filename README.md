@@ -20,8 +20,6 @@ I'm frontend developer with a passion for bringing ideas to life, by designing, 
 
 I thrive on collaborating with other developers to bring new projects and products to life, and I'm always eager to share my knowledge and mentor others. My expertise lies in the React environment working with javascript, but I'm also comfortable with other frontend frameworks and other languages as well such as C#, Swift/Objective-C, Python. I love staying up-to-date with the latest technologies and am excited to see what the future holds for the industry. 
 
-I enjoy creating new products from CRMs, AI Tools with OpenAI, good looking websites and more.
-
 
 ## 🛠 Skills 
 
